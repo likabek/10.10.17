@@ -12,6 +12,7 @@ console.log("a is zero")
 
 else
 
-while i<b
-a=i+a
+  j++
+while j<b
+a=j+a
 console.log(a)
